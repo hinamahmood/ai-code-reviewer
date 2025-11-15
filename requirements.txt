@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gitpython
+anthropic
+python-dotenv
+
