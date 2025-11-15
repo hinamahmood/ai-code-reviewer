@@ -3,4 +3,5 @@ uvicorn
 gitpython
 anthropic
 python-dotenv
+pytest
 
